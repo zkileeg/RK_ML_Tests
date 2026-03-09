@@ -6,7 +6,7 @@ Testing various ML algorithms and applications on the RK pangenome data to try a
 
 So far, the best I've been able to achieve for model accuracy/f1 score/ROC AUC is:
 
-Accuracy: 0.6716417910447762 f1: 0.6776871456670138 ROC AUC: 0.6535.
+Accuracy: 0.7164179104477612 f1: 0.7304376991447259 ROC AUC: 0.8073
 
 
 I'm getting there slowly but surely. So far I've tried:
