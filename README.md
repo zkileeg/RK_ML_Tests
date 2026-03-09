@@ -2,7 +2,8 @@
 Testing various ML algorithms and applications on the RK pangenome data to try and predict function from what we have. 
 
 
-**Catboost model**
+**Catboost model**:
+
 So far, the best I've been able to achieve for model accuracy/f1 score/ROC AUC is:
 
 Accuracy: 0.6716417910447762 f1: 0.6776871456670138 ROC AUC: 0.6535.
